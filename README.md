@@ -10,5 +10,5 @@ Abstract: Energetic demands and fear of predators are considered primary factors
 
 Details of how these data were collected can be found in the Methods and Supplementary Materials of Nickel et al. 2020, Energetics and fear of humans constrain the spatial ecology of pumas (journal name). A brief summary of each dataset follows:
 
-puma-step-data.csv - Columns: id=animal id; sex=animal sex; date_time=date, time of animal location; x=UTM easting of animal location; y=UTM northing of animal location; speed=speed (m/s) between animal locations (xt & xt-1); tpi=topographic position; vrm=topographic ruggedness; slope=downhill slope; road=distance to commuter road; housing=housing density; forest=percent forest core; edge=percent forest edge.  
+puma-step-data.csv - Columns: id=animal id; sex=animal sex; weight=animal weight (kg); date_time=date, time of animal location; x=UTM easting of animal location; y=UTM northing of animal location; speed=speed (m/s) between animal locations (xt & xt-1); odba=overall dynamic body acceleration; tpi=topographic position; vrm=topographic ruggedness; slope=downhill slope; road=distance to commuter road; housing=housing density; forest=percent forest core; edge=percent forest edge.  
 
